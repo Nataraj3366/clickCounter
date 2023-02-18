@@ -1,0 +1,36 @@
+/* Write your CSS here */
+
+body {
+  background-color: #f1f5f8;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+
+.app-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.heading {
+  font-size: 50px;
+  color: #2d3a35;
+  align-items: center;
+}
+
+span {
+  color: #c20a72;
+}
+.paragraph {
+  color: #2d3a35;
+}
+button {
+  background-color: #007bff;
+  color: #ffffff;
+  border: 0px none;
+  padding: 10px;
+  border-radius: 20px;
+}
